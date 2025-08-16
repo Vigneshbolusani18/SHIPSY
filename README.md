@@ -57,12 +57,6 @@ Try it online:
 
 ---
 
-## 🎥 Demo & Walkthrough
-
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://smart-freight-planner.vercel.app/demo)
-
-<p align="center"><i>Click the image above to explore the Smart Freight & Storage Planner live demo</i></p>
-
 ---
 
 ## 📋 Prerequisites
